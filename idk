@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<div id="weez"> This is the profile of weez. </div>
+
+
+<style>
+
+#weez {
+background: black;
+color: gold;
+height=500px;
+width=50%;
+border-style: solid;
+border-color: white;
+}
+</style>
+
+</html>
